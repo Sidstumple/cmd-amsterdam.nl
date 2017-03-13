@@ -5,6 +5,7 @@
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
 *   Display skeleton screens instead of loading indicators
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
+*   [Text in Image :frowning:](https://www.cmd-amsterdam.nl/samenwerken/)  http://ux.stackexchange.com/questions/41593/is-the-usage-of-text-embedded-in-an-image-a-bad-practice-for-very-controlled-us
 
 ## HTTP optimisation
 
