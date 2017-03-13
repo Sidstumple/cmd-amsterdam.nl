@@ -59,3 +59,4 @@
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
+*   SVG images are smaller, although Wordpress does not support this because of security issues. (https://www.bjornjohansen.no/svg-in-wordpress)
